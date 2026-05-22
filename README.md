@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Sono un Aspirante Sistemista Linux / DevOps. 
+Contributore attivo nell'ecosistema Open Source (Linux Mint, Arch Linux, KDE). 
+Attualmente focalizzato su automazione Bash/Python e localizzazione software.
+
 <!--
 **Dark4331/dark4331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
