@@ -1,17 +1,16 @@
 # 🪐 Hi there i am DSK!
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
-### 📈 Attività Recente e Linee di Codice
+<!---
+#<p align="center">
+#  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+#</p>
+-->
+### 📈
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dark4331&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=false" width="100%" alt="Grafico attività" />
 </p>
 
 ---
 
-### 🚀 Tecnologie e Tool
 
 
 
