@@ -1,6 +1,8 @@
 # 🪐 Hi there i am DSK!
 
 <p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
 
 ### 📈 Attività Recente e Linee di Codice
 <p align="center">
